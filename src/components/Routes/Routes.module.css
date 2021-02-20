@@ -1,0 +1,52 @@
+.baseButton {
+  padding: 5px 10px;
+
+  font-size: 18px;
+}
+
+.variantNumber {
+  font-size: 20px;
+  min-width: 150px;
+}
+
+.routeString {
+  margin-top: 10px;
+
+  font-size: 18px;
+}
+
+.btnContainer {
+  display: flex;
+  margin: 0 auto;
+  align-items: center;
+  justify-content: center;
+}
+
+.leftBtn {
+  composes: baseButton;
+
+  margin-right: 20px;
+
+}
+
+.rightBtn {
+  composes: baseButton;
+
+  margin-left: 20px;  
+}
+
+.listAllVariants {
+  list-style: none;
+  counter-reset:  item;
+  padding: 0;
+}
+
+.variantsItem {
+  composes: routeString;
+  text-align: center;
+}
+
+.variantsItem::before {
+  content: counter(item) ') '; 
+  counter-increment: item; 
+}

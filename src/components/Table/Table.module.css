@@ -1,0 +1,27 @@
+.table {
+  margin: 20px auto;
+
+  border-collapse: collapse;
+
+  font-size: 20px;
+}
+
+.cell, 
+.headerCell {
+  padding: 10px;
+  border: 1px solid black;
+  min-width: 30px;
+}
+
+.headerCell {
+  font-weight: normal;
+}
+
+.cell {
+  font-weight: bold;
+}
+
+.highlightCell {
+  background-color: rgb(44, 132, 214);
+  color: white;
+}
