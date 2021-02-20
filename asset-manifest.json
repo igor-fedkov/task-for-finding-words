@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/task-for-finding-words/static/css/main.982b1ddf.chunk.css",
+    "main.js": "/task-for-finding-words/static/js/main.61e2da68.chunk.js",
+    "main.js.map": "/task-for-finding-words/static/js/main.61e2da68.chunk.js.map",
+    "runtime-main.js": "/task-for-finding-words/static/js/runtime-main.72aafb1a.js",
+    "runtime-main.js.map": "/task-for-finding-words/static/js/runtime-main.72aafb1a.js.map",
+    "static/js/2.f5791c65.chunk.js": "/task-for-finding-words/static/js/2.f5791c65.chunk.js",
+    "static/js/2.f5791c65.chunk.js.map": "/task-for-finding-words/static/js/2.f5791c65.chunk.js.map",
+    "static/js/3.0e97fb65.chunk.js": "/task-for-finding-words/static/js/3.0e97fb65.chunk.js",
+    "static/js/3.0e97fb65.chunk.js.map": "/task-for-finding-words/static/js/3.0e97fb65.chunk.js.map",
+    "index.html": "/task-for-finding-words/index.html",
+    "static/css/main.982b1ddf.chunk.css.map": "/task-for-finding-words/static/css/main.982b1ddf.chunk.css.map",
+    "static/js/2.f5791c65.chunk.js.LICENSE.txt": "/task-for-finding-words/static/js/2.f5791c65.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72aafb1a.js",
+    "static/js/2.f5791c65.chunk.js",
+    "static/css/main.982b1ddf.chunk.css",
+    "static/js/main.61e2da68.chunk.js"
+  ]
+}
